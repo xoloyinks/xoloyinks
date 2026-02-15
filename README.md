@@ -32,6 +32,10 @@ I specialize in developing modern interfaces using **React, Next.js, TypeScript,
 - Vercel
 - Responsive & Performance Optimization
 
+### ⌚ Wakatime Activities
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### 📈 GitHub Analytics
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xoloyinks&show_icons=true&theme=dark)
