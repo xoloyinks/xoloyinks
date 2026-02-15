@@ -4,7 +4,7 @@
 
 I specialize in developing modern interfaces using **React, Next.js, TypeScript, and Tailwind CSS**, with strong experience integrating APIs, optimizing performance, and delivering production-ready products.
 
-🔭 Currently building and scaling real-world platforms including international job marketplaces and AI-enhanced applications.  
+🔭 Currently building and scaling real-world platforms.  
 🚀 Passionate about clean architecture, excellent UX, and high-quality frontend systems.  
 ☁️ Experienced with AWS deployment and modern web infrastructure.
 
@@ -18,11 +18,12 @@ I specialize in developing modern interfaces using **React, Next.js, TypeScript,
 - TypeScript
 - JavaScript (ES6+)
 - Tailwind CSS
-- Material UI
+
 
 **State & Data**
 - Redux Toolkit / RTK Query
 - REST APIs
+- WebSockets
 - Authentication & Session Management
 
 **Cloud & Tools**
