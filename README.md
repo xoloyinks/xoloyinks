@@ -48,12 +48,7 @@ CSS          6 mins          ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ### 📈 GitHub Analytics
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xoloyinks&show_icons=true&theme=dark)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=xoloyinks&theme=dark)](https://git.io/streak-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xoloyinks&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
