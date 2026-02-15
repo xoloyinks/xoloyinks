@@ -35,8 +35,6 @@ I specialize in developing modern interfaces using **React, Next.js, TypeScript,
 ---
 
 ### 📊 Development Activity
-
-[![WakaTime stats]
 name: Waka Readme
 
 on:
