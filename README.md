@@ -1,8 +1,8 @@
-## 👋 Hi, I'm Omopariola Kolawole
+## 👋 Hi, I'm Kolawole Omopariola
 
-🌐 Frontend Engineer focused on building scalable, performant, and user-centered web applications.
+🌐 Frontend Engineer focused on building scalable, performant, and user-centered web and mobile applications.
 
-I specialize in developing modern interfaces using **React, Next.js, TypeScript, and Tailwind CSS**, with strong experience integrating APIs, optimizing performance, and delivering production-ready products.
+I specialize in developing modern interfaces using **React, Next.js, TypeScript, and Tailwind CSS** for webs, and **Flutter** for mobiles, with strong experience integrating APIs, optimizing performance, and delivering production-ready products.
 
 🔭 Currently building and scaling real-world platforms.  
 🚀 Passionate about clean architecture, excellent UX, and high-quality frontend systems.  
@@ -17,6 +17,8 @@ I specialize in developing modern interfaces using **React, Next.js, TypeScript,
 - Next.js
 - TypeScript
 - JavaScript (ES6+)
+- Dart
+- Flutter
 - Tailwind CSS
 
 
