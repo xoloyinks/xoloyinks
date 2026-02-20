@@ -30,6 +30,7 @@ I specialize in developing modern interfaces using **React, Next.js, TypeScript,
 
 **Cloud & Tools**
 - AWS (S3, CloudFront, Amplify)
+- AI Superintelligence
 - Git & GitHub
 - Vercel
 - Responsive & Performance Optimization
