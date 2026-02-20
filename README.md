@@ -38,11 +38,11 @@ I specialize in developing modern interfaces using **React, Next.js, TypeScript,
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   11 hrs 19 mins        ███████████▒░░░░░░░░░░░░░   45.18 %
-Dart         7 hrs 27 mins         ███████▒░░░░░░░░░░░░░░░░░   29.78 %
-JavaScript   4 hrs 16 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.08 %
-JSON         59 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
-CSS          41 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+TypeScript   15 hrs 11 mins        ██████████████░░░░░░░░░░░   55.93 %
+Dart         5 hrs 48 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.40 %
+JavaScript   4 hrs 16 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
+JSON         59 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+CSS          42 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
 ```
 
 <!--END_SECTION:waka-->
