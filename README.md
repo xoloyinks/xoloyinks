@@ -21,6 +21,9 @@ I'm a CS grad specialing in developing modern interfaces using **React, Next.js,
 - Flutter
 - Tailwind CSS
 
+**Backend**
+- Node.js
+- Golang
 
 **State & Data**
 - Redux Toolkit / RTK Query
