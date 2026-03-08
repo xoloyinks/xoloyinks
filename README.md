@@ -67,5 +67,5 @@ Bash         7 mins                ▒░░░░░░░░░░░░░░
 - Open to **remote frontend engineering opportunities**
 - Interested in impactful products, startups, and scalable platforms
 
-Feel free to explore my repositories or reach out!
+Feel free to explore my repositories or reach out
 
