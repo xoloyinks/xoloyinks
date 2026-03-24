@@ -42,9 +42,10 @@ I'm a CS grad specialing in developing modern interfaces using **React, Next.js,
 <!--START_SECTION:waka-->
 
 ```txt
-Go           10 hrs 36 mins        █████████████████████████   99.70 %
+Go           10 hrs 28 mins        ████████████████████████▓   99.18 %
+JavaScript   3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 Git Config   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
