@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Kolawole Omopariola
 
-🌐 Senior Fullstack Engineer focused on building scalable, performant, and user-centered web and mobile applications.
+🌐 Senior Frontend Engineer focused on building scalable, performant, and user-centered web and mobile applications.
 
 I'm a CS grad specialing in developing modern interfaces using **React, Next.js, TypeScript, and Tailwind CSS** for webs, with strong experience integrating APIs, optimizing performance, and delivering production-ready products.
 
