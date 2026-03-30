@@ -53,7 +53,7 @@ Bash         0 secs                ░░░░░░░░░░░░░░░
 
 ---
 
-### 🌍 Portfolio
+### 🌍 Portfolio:
 
 🔗 **Portfolio:** https://xoloyinks.vercel.app
 
