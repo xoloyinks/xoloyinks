@@ -41,7 +41,7 @@ I'm a CS grad specialing in developing modern interfaces using **React, Next.js,
 <!--START_SECTION:waka-->
 
 ```txt
-Go   13 hrs 19 mins        █████████████████████████   100.00 %
+Go   11 hrs 7 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
