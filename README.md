@@ -58,7 +58,7 @@ Other        4 mins                ░░░░░░░░░░░░░░░
 
 ### 🌍 Portfolio:
 
-🔗 **Portfolio:** https://xoloyinks.vercel.app
+🔗 **Portfolio:** https://xoloyinks.dev
 
 ---
 
