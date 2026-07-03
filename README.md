@@ -42,7 +42,7 @@ I'm a CS grad specialing in developing modern interfaces using **React, Next.js,
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   6 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
