@@ -23,6 +23,11 @@ I'm a CS grad specialing in developing modern interfaces using **React, Next.js,
 - Nodejs
 - Nestjs
 
+**AI Engineering**
+- Python
+- RAG
+- Prompt Engineering
+  
 **State & Data**
 - Redux Toolkit / RTK Query
 - Zustand
