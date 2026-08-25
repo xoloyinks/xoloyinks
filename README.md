@@ -30,6 +30,7 @@ I'm a CS grad specialing in developing modern interfaces using **React, Next.js,
   
 **State & Data**
 - Redux Toolkit / RTK Query
+- Redis
 - Zustand
 - REST APIs
 - WebSockets
