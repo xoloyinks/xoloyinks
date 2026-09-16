@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Kolawole Omopariola
 
-🌐 Software and AI Engineer focused on building scalable, performant, user-centered web and mobile applications, and AI agents.
+🌐 Software and AI Engineer focused on building scalable, performant, user-centered web/mobile applications, and AI agents.
 
 I'm a CS grad specialing in developing modern interfaces using **React, Next.js, TypeScript, and Tailwind CSS** for webs, with strong experience integrating APIs, optimizing performance, and delivering production-ready products.
 
