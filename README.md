@@ -41,7 +41,6 @@ I'm a CS grad specialing in developing modern interfaces using **React, Next.js,
 - AWS (S3, CloudFront, Amplify)
 - AI for Superintelligence
 - Git & GitHub
-- Vercel
 - Responsive & Performance Optimization
 
 ### ⌚ Wakatime Activities
