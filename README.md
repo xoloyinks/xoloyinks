@@ -59,7 +59,7 @@ No activity tracked
 
 ### 🌍 Portfolio:
 
-🔗 **Portfolio:** https://xoloyinks.dev
+🔗 **Portfolio:** https://xoloyinks.dev/
 
 ---
 
