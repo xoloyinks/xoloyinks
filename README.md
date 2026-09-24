@@ -16,7 +16,6 @@ I'm a CS grad specialing in developing modern interfaces using **React, Next.js,
 - React.js
 - Next.js
 - TypeScript
-- JavaScript (ES6+)
 - Tailwind CSS
 
 **Backend**
@@ -32,7 +31,6 @@ I'm a CS grad specialing in developing modern interfaces using **React, Next.js,
 - Redux Toolkit / RTK Query
 - Redis
 - Zustand
-- REST APIs
 - WebSockets
 - Server sent Events (SSE)
 - Authentication & Session Management
