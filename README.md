@@ -61,7 +61,7 @@ No activity tracked
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Let's Connect!
 
 - Open to **remote frontend engineering opportunities**
 - Interested in impactful products, startups, and scalable platforms
