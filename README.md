@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Kolawole Omopariola
+## 👋 Hi there, I'm Kola
 
 🌐 Software and AI Engineer focused on building scalable, performant, user-centered web/mobile applications, and AI agents.
 
